@@ -1,0 +1,1 @@
+{"row_id":"sample_id","group":"condition_id","target":"lifespan_days","features":["pharynx_pathology","intestinal_pathology","measurement_age_days"],"seed":42,"outer_folds":5,"inner_folds":3,"synthetic_only":false}

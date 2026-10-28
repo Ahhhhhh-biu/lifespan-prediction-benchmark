@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "scope": "synthetic regression software validation",
+  "checks": [
+    "group-disjoint outer folds",
+    "one OOF prediction per row per model",
+    "same-seed benchmark output reproducibility",
+    "explicit target-feature rejection"
+  ]
+}
